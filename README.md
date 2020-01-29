@@ -1,6 +1,6 @@
 # InterviewAnanyaDixit
 
-Please download the Postman requests via this link: 
+Please download the Postman requests via this link: https://www.getpostman.com/collections/467545a379b51fb57157
 
 
 1. Run the service
